@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FiveM Project](gg./bahama)
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently learning **Networking **
 
 - 👨‍💻 All of my projects are available at [soon....](soon....)
 
