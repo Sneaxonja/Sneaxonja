@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm SneaX</h1>
 <p align="left"> <a href="https://twitter.com/sneaxonja" target="blank"><img src="https://img.shields.io/twitter/follow/sneaxonja?logo=twitter&style=for-the-badge" alt="sneaxonja" /></a> </p>
 
-- 🔭 I’m currently working on [FiveM Project](gg./bahama)
+- 🔭 I’m currently working on [TRUMPF]()
 
 - 🌱 I’m currently learning **Networking **
 
